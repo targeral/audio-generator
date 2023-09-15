@@ -1,0 +1,23 @@
+{
+  "name": "gen-audio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "modern build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modern-js/module-tools": "^2.34.0",
+    "@modern-js/tsconfig": "^2.35.0",
+    "@modern-js/utils": "^2.34.0",
+    "@types/fluent-ffmpeg": "^2.1.21",
+    "@types/jsdom": "^21.1.2",
+    "axios": "^1.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "jsdom": "^22.1.0",
+    "typescript": "^5.2.2"
+  }
+}
